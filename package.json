@@ -27,7 +27,7 @@
     "passport-jwt": "^4.0.0",
     "react-router-dom": "^5.1.2",
     "semantic-ui-react": "^0.88.2",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
